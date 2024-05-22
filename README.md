@@ -1,13 +1,12 @@
 ## About Me
 
 
-https://github.com/MasaAladwan/MasaAladwan/assets/140068585/b00efde9-189c-4a24-8edf-031c8ec9c5d8
+
+![White and Pink Doodle Handwritten Mind Map Brainstorm](https://github.com/MasaAladwan/MasaAladwan/assets/140068585/d28ae64f-86d0-46c3-b760-fb28404c88b8)
 
 
+I'M third-year Data Science student at BAU. My passion lies in exploring the vast realms of Data Science, AI, and Machine Learning. I'm eager to solve complex problems and contribute to impactful projects.
 
-Hi there! 👋 I'm MasaAladwan, a third-year Data Science student at BAU. My passion lies in exploring the vast realms of Data Science, AI, and Machine Learning. I'm eager to solve complex problems and contribute to impactful projects.
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasaAladwan)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔭 Current Work
 Currently, I'm focusing on university projects that span a range of interesting topics within data science and AI. 
 
