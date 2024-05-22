@@ -24,6 +24,6 @@ I'm deepening my knowledge in Data Science, AI, and Machine Learning, and also d
 - 💬 I'm always up for discussions about data science, AI, and innovative tech solutions.
 
 ### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](www.linkedin.com/in/masaaladwan)
 
 Feel free to explore my repositories and projects. Let's connect and collaborate to build something amazing!
